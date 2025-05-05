@@ -7,8 +7,10 @@
 A smart contract-based module that allows users to store and retrieve customized travel plans based on destination and personal preferences like food, adventure, culture, etc. The goal is to provide a decentralized, tamper-proof way to store travel interests for a personalized experience.
 
 ## Contract Address Details:
-CDK4VR3S2ZD53WDPXKFRWO35KFTPMRPXIP3HZH6TKNPY3G2QHB4I3XFW
-![alt text](image.png)
+CDFL7CS6NSFEDQQPUTHZOXPC7ZHWLYW6CCBOY4J2FX2WFPSQZUBX5SPG
+![image](https://github.com/user-attachments/assets/f34d04fe-a9f7-46f2-89b9-718b6b36dd02)
+
+
 
 ## 🎯 Project Vision
 To create a secure, transparent, and decentralized solution for storing and managing user travel preferences that could be integrated with larger dApps for tourism, planning, and AI-generated travel experiences.
